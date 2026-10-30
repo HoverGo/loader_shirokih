@@ -1,0 +1,7 @@
+build/
+tools/nasm/
+tools/nasm.zip
+*.vdi
+__pycache__/
+*.pyc
+.DS_Store
